@@ -164,6 +164,7 @@ dependencies = [
  "anyhow",
  "cargo_metadata",
  "goblin",
+ "libbpf-sys",
  "semver",
  "serde",
  "serde_json",
